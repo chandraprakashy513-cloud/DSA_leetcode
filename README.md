@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -49,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -66,4 +69,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
