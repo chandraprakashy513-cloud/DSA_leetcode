@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
+| [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -78,6 +80,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
