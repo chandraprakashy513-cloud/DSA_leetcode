@@ -94,11 +94,13 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
