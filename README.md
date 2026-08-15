@@ -6,6 +6,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
