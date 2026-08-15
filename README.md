@@ -25,6 +25,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
