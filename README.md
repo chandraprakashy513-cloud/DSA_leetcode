@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
