@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
