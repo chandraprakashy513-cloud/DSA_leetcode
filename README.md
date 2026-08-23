@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [0896-monotonic-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
