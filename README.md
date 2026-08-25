@@ -9,6 +9,7 @@
 | [0038-count-and-say](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
+| [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -167,4 +168,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
