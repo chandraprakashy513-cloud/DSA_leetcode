@@ -9,6 +9,7 @@
 | [0038-count-and-say](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -78,6 +79,7 @@
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
