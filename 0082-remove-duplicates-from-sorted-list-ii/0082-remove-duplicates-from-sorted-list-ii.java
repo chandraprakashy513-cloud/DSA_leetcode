@@ -34,7 +34,7 @@ class Solution {
                 i=j;
             }
         }
-        temp.next=i;
+        temp.next=i;//to add the null
         return dummy.next;
     }
 }
