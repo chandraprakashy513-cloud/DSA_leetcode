@@ -79,6 +79,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0141-linked-list-cycle) |
@@ -202,6 +203,7 @@
 | [0061-rotate-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
