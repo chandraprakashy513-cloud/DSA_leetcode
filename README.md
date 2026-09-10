@@ -9,6 +9,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -138,6 +139,7 @@
 | [0012-integer-to-roman](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
@@ -148,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
@@ -198,6 +201,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
