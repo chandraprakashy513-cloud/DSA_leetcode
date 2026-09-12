@@ -11,6 +11,7 @@
 | [0058-length-of-last-word](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -21,6 +22,7 @@
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
@@ -48,6 +50,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
