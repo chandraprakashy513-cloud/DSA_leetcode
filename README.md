@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0383-ransom-note) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -79,6 +80,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -135,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
