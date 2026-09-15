@@ -16,6 +16,7 @@
 | [0290-word-pattern](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -152,6 +153,7 @@
 | [0202-happy-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -164,6 +166,7 @@
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
