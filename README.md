@@ -25,6 +25,7 @@
 | [0041-first-missing-positive](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
@@ -259,4 +261,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
