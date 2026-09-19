@@ -10,27 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-
-        if(head == null || head.next == null) {
-            return head;
-        }
-        ListNode temp=head;
-        ArrayList<ListNode> ans= new ArrayList<>();
-        while(temp!=null)
+        ListNode current=head;
+        ListNode forword=null;
+        ListNode prev=null;
+        while(current!=null)
         {
-            ans.add(temp);
-            temp=temp.next;
-        }
+            forword=current.next;
+            current.next=prev;
 
-        int n = ans.size();
-        for(int i=n-1;i>=1;i--)
-        {
-            ListNode temp1=ans.get(i);
-            ListNode temp2=ans.get(i-1);
-
-            temp1.next=temp2;   
+            prev=current;
+            current=forword;
         }
-        ans.get(0).next=null;
-        return ans.get(n-1);
+        return prev;
     }
 }
