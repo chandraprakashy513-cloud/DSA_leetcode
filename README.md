@@ -46,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0190-reverse-bits) |
@@ -65,11 +66,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
@@ -233,6 +236,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
