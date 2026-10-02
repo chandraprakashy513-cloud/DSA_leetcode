@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -12,26 +10,21 @@ import java.util.Stack;
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Stack st = new Stack<>();
-        ListNode temp = head;
-        
-        while (temp != null) {
-            st.push(temp.val);
-            temp = temp.next;
+        Stack<ListNode> st = new Stack();
+        ListNode temp=head;
+        while(temp!=null)
+        {
+            while(st.size()>0 && st.peek().val < temp.val)
+                st.pop();
+            st.push(temp);
+            temp=temp.next;    
         }
-        
-        ListNode newHead = null;
-        int maxVal = Integer.MIN_VALUE;
-        
-        while (!st.isEmpty()) {
-            int val = (int)st.pop();
-            if (val >= maxVal) {
-                maxVal = val;
-                ListNode newNode = new ListNode(val, newHead);
-                newHead = newNode;
-            }
+        while(st.size()>0)
+        {
+            ListNode top= st.pop();
+            top.next=temp;
+            temp=top;
         }
-        
-        return newHead;
+        return temp;
     }
 }
