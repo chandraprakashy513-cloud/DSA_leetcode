@@ -19,6 +19,7 @@
 | [0383-ransom-note](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -113,6 +114,7 @@
 | [0283-move-zeroes](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -232,6 +234,7 @@
 | [0143-reorder-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -241,6 +244,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
