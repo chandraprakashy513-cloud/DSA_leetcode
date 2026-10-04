@@ -237,6 +237,7 @@
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -333,5 +334,14 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
