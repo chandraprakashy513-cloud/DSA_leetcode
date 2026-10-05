@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -237,6 +238,7 @@
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -330,6 +332,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
