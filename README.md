@@ -48,6 +48,7 @@
 | [0896-monotonic-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -241,6 +242,7 @@
 | [0856-score-of-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -338,6 +340,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
