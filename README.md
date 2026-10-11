@@ -50,6 +50,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
