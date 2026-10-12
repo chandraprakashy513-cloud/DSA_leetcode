@@ -28,6 +28,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -340,6 +342,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -352,4 +355,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
