@@ -49,6 +49,7 @@
 | [0896-monotonic-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -222,6 +224,7 @@
 | [0206-reverse-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
@@ -256,6 +259,7 @@
 | [0067-add-binary](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -310,6 +314,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
