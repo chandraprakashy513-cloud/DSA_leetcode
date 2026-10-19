@@ -31,6 +31,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0189-rotate-array) |
@@ -368,4 +369,8 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1791-find-center-of-star-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
