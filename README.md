@@ -55,6 +55,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -186,6 +187,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
