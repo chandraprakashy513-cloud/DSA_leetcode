@@ -23,6 +23,7 @@
 | [0856-score-of-parentheses](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
