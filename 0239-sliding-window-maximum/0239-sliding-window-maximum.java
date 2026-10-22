@@ -6,11 +6,11 @@ class Solution {
         Deque<Integer> q = new LinkedList<>();
 
         for (int i = 0; i < n; i++) {
-            while (q.size()>0 && q.peekFirst() <= i - k) {
+            while (!q.isEmpty() && q.peekFirst() <= i - k) {
                 q.pollFirst();
             }
 
-            while (q.size()>0 && arr[q.peekLast()] <= arr[i]) {
+            while (!q.isEmpty() && arr[q.peekLast()] <= arr[i]) {
                 q.pollLast();
             }
 
