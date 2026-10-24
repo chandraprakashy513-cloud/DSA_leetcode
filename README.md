@@ -57,6 +57,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -202,6 +203,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
