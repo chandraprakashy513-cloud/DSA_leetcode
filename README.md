@@ -49,6 +49,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@
 | [0268-missing-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0493-reverse-pairs) |
+| [0713-subarray-product-less-than-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
@@ -243,11 +245,13 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
