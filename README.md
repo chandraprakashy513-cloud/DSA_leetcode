@@ -48,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/chandraprakashy513-cloud/DSA_leetcode/tree/master/0896-monotonic-array) |
